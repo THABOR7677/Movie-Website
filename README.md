@@ -16,7 +16,7 @@ Welcome to the **Movie Website**! This project is a web application that allows 
 
 ## 🚀 Live Demo
 
-Check out the live demo of the project: [Movie Website Live Demo](#)  
+Check out the live demo of the project: [http://localhost:5173/](#)  
 *(Replace with your actual deployment link, e.g., Netlify, Vercel, or GitHub Pages)*
 
 ---
